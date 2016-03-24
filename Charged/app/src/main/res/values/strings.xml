@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Charged</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">Username</string>
+    <string name="pass">password</string>
+    <string name="logintxt">Login</string>
+    <string name="account">Have an account?</string>
+    <string name="john_snow">john snow</string>
+    <string name="lshome">Home</string>
+    <string name="lscal">Calendar</string>
+    <string name="lsoverview">Overview</string>
+    <string name="lsgroups">Groups</string>
+    <string name="lslists">Lists</string>
+    <string name="lsprofile">Profile</string>
+    <string name="lstimeline">Timeline</string>
+    <string name="ls12">12</string>
+    <string name="lssettings">Settings</string>
+    <string name="lslogout">Logout</string>
+    <string name="know">what you know</string>
+</resources>
